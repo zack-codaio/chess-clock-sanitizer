@@ -1,0 +1,1 @@
+cat chess_sanitizer.js > app.js

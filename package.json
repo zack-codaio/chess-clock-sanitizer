@@ -1,0 +1,13 @@
+{
+  "name": "chessClock",
+  "version": "0.1.0",
+  "description": "Helper utility to sanitize chess games",
+  "author": "Zachary Aman",
+  "contributors": [{
+    "name": "Foo Bar",
+    "email": "foo.bar@example.com"
+  }],
+  "dependencies": {
+
+  }
+}
